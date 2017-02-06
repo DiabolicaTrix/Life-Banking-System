@@ -1,0 +1,8 @@
+/*
+ * Add this in CfgSounds
+*/
+class InsertCard {
+    name = "InsertCard";
+    sound[] = {"\sounds\banking\insertcard.ogg", 1.0, 1};
+    titles[] = {};
+};
